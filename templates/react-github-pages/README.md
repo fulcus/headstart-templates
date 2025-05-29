@@ -5,9 +5,9 @@
 ## Installation
 
 ```bash
-git clone https://github.com/{{ author_name }}/{{ snakeCase project_name }}.git
-cd {{ snakeCase project_name }}
+git clone https://github.com/{{ author_name }}/{{ project_name }}.git
+cd {{ project_name }}
 ```
 
 ## Website
-https://{{ author_name }}.github.io/{{ snakeCase project_name }}
+https://{{ author_name }}.github.io/{{ project_name }}
