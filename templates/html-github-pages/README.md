@@ -2,7 +2,7 @@
 
 {{ project_description }}
 
-## Installation
+## Clone the repository
 
 ```bash
 git clone https://github.com/{{ author_name }}/{{ project_name }}.git
